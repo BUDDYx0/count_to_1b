@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\counting.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\hydra\\Documents\\Coding\\C++\\counting\\cmake-build-debug-vs\\vc140.pdb",
+                "CMakeFiles\\counting.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+# ninja log v5
+5	142	7311823825661645	CMakeFiles/counting.dir/main.cpp.obj.ddi	25cedfbecf0cd847
+143	176	7311823826031660	CMakeFiles/counting.dir/CXX.dd	f2583d6eb5a45727
+143	176	7311823826031660	C:/Users/hydra/Documents/Coding/C++/counting/cmake-build-debug-vs/CMakeFiles/counting.dir/CXXModules.json	f2583d6eb5a45727
+143	176	7311823826031660	CMakeFiles/counting.dir/main.cpp.obj.modmap	f2583d6eb5a45727
+178	1487	7311823839111166	CMakeFiles/counting.dir/main.cpp.obj	527832c987128306
+1487	1736	7311823841441826	counting.exe	db893a175b75add8
+3	131	7311824144118149	CMakeFiles/counting.dir/main.cpp.obj.ddi	25cedfbecf0cd847
+131	158	7311824144409126	CMakeFiles/counting.dir/CXX.dd	f2583d6eb5a45727
+131	158	7311824144409126	C:/Users/hydra/Documents/Coding/C++/counting/cmake-build-debug-vs/CMakeFiles/counting.dir/CXXModules.json	f2583d6eb5a45727
+131	158	7311824144409126	CMakeFiles/counting.dir/main.cpp.obj.modmap	f2583d6eb5a45727
+158	1178	7311824154565278	CMakeFiles/counting.dir/main.cpp.obj	527832c987128306
+1178	1298	7311824155508090	counting.exe	db893a175b75add8
